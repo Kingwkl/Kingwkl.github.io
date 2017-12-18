@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to WKL Page
+You can run wkl's blog(http://blog.csdn.net/w_k_l)
 
-You can use the [editor on GitHub](https://github.com/Kingwkl/Kingwkl.github-io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub])(https://github.com/Kingwkl/Kingwkl.github-io/edit/master/index.md to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
