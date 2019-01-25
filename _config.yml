@@ -21,3 +21,5 @@ markdown: kramdown
 #SNS setting
 RSS:false
 csdn_username:  w_k_l
+
+theme: jekyll-theme-cayman
