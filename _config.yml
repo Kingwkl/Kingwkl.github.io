@@ -33,13 +33,13 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     disqus: KING
-    # duoshuo: 
-    
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
+    #weibo: onevcat
     github: Kingwkl
-    twitter: onevcat
+    #twitter: onevcat
     gplus: 107108267983477358170
     mail: kingkanglong@gmail.com
 
