@@ -3,7 +3,7 @@ title: KING
 subtitle: To be a better man!
 #welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: 记录生活，记录技术，一个渴望成为大佬的菜鸟！
-creator: <a href="http://onev.cat">@onevcat</a>
+#creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://blog.csdn.net/w_k_l"
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: blue
 
 # The blog button should not be removed.
 blog_button:
@@ -41,7 +41,7 @@ social:
     github: Kingwkl
     #twitter: onevcat
     gplus: 107108267983477358170
-    mail: kingkanglong@gmail.com
+    mail: Wkanglong@stu.csust.edu.cn
 
 # Google Analytics
 ga:
