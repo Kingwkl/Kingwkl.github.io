@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: purple
 
 # The blog button should not be removed.
 blog_button:
@@ -23,7 +23,6 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: CSDN, description: My CSND, url: 'https://blog.csdn.net/w_k_l'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
 plugins: [jekyll-paginate]
@@ -37,10 +36,7 @@ comment:
 
 # Social
 social:
-    #weibo: onevcat
     github: Kingwkl
-    #twitter: onevcat
-    gplus: 107108267983477358170
     mail: Wkanglong@stu.csust.edu.cn
 
 # Google Analytics
